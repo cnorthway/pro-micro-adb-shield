@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "cnorthway")(type "KiCad")(uri "${KIPRJMOD}/../personal-kicad-lib/cnorthway.kicad_sym")(options "")(descr ""))
+)
