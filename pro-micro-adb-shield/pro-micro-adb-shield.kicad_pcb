@@ -150,7 +150,7 @@
     (pad "2" thru_hole circle locked (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 3 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4922ab2a-4d0e-4bbe-9b25-4be4681eb69b))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -198,15 +198,10 @@
       (net 1 "GND") (pinfunction "3") (pintype "passive") (tstamp 31c9f48e-4a5a-4032-9e5f-8014ae70f055))
     (pad "4" thru_hole circle locked (at 6.5 4.5 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "4") (pintype "passive") (tstamp fbd17f4a-573a-40dd-9bcd-bb3009fa1e34))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
-    )
-    (model "${CUSTOM3D}/c-1825910-7-c-3d.stp"
-      (offset (xyz 3.25 -2.25 5.25))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
     )
   )
 
@@ -292,7 +287,7 @@
     (pad "2" thru_hole circle locked (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 2 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 06e2991b-28fc-4f9c-a86e-b5850e25e95f))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
