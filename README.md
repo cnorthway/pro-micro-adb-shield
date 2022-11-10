@@ -45,3 +45,9 @@ Steps:
 8. Flash Pro Micro with [firmware][fwrepo]; optionally customize keymaps
 
 [fwrepo]: https://github.com/cnorthway/tmk_keyboard/tree/cnorthway/adapter
+
+## Note About 3D Models
+
+I am not redistributing the third party 3D models, so if you want the full 3D
+rendered experience: find them yourself, place them in a folder and add that
+folder to Kicad with `Preferences->Configure Paths...` as `CUSTOM3D`.
