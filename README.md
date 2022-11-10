@@ -27,7 +27,7 @@ Parts List:
 | SW1    | Through-hole mini pushbutton, TE Connectivity `1825910-7` or compatible       |
 | SW2    | 4 position surface mount DIP switch, CTS Electronics `214-LPST` or compatible |
 | R1, R2 | 1/4 W through hole resistor, value dependent on LED                           |
-| R3     | 1/4 W through hole resistor, 1-4.7K (pullup for ADB, see [here][tmkwiki])     |
+| R3     | 1/4 W through hole resistor, 470 ohm (pullup for ADB, see [here][tmkwiki])    |
 | D1, D2 | 3mm through-hole LEDs                                                         |
 
 [tmkwiki]: https://github.com/tmk/tmk_keyboard/wiki/Apple-Desktop-Bus#pull-up-resistor
