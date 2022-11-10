@@ -1,5 +1,7 @@
 # Pro Micro ADB "Shield"
 
+<img alt="3D render of PCB" src=pro-micro-adb-shield-crop.png width=500px>
+
 A simple PCB designed to add an Apple Desktop Bus (ADB) port to an Arduino
 Pro Micro board to create a USB-ADB converter with a few extra features.
 Uses mostly through-hole components.
